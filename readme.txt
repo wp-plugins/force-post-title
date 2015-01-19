@@ -1,12 +1,11 @@
 === Force Post Title ===
 Contributors: j_p_s (Jatinder Pal Singh)
-Donate link: http://www.appinstore.com/force-post-title/
-Author URI: http://www.appinstore.com
-Plugin URI: http://www.appinstore.com/force-post-title/
+Donate link: 
+Author URI: http://www.jpsays.com
 Tags: post, title, publish, without, require, force, must
 Requires at least: 3.x
-Tested up to: 3.3.1
-Stable tag: 1.0
+Tested up to: 4.1
+Stable tag: 1.1
 
 This is simple plugin which forces the users to write POST title in Add New Post page.
 

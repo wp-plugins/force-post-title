@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Force Post Title
-Plugin URI: http://appinstore.com
+Plugin URI: http://www.jpsays.com
 Description: Forces user to assign a Title to a post before publishing 
 Author: Jatinder Pal Singh
-Version: 0.1
-Author URI: http://appinstore.com/
+Version: 1.1
+Author URI: http://www.jpsays.com/
 */ 
 function force_post_title_init() 
 {
