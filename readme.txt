@@ -1,6 +1,7 @@
 === Force Post Title ===
-Contributors: j_p_s (Jatinder Pal Singh)
-Donate link: 
+Contributors: j_p_s
+Author: Jatinder Pal Singh
+Donate link: http://www.jpsays.com
 Author URI: http://www.jpsays.com
 Tags: post, title, publish, without, require, force, must
 Requires at least: 3.x

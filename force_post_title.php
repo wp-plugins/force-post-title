@@ -3,6 +3,7 @@
 Plugin Name: Force Post Title
 Plugin URI: http://www.jpsays.com
 Description: Forces user to assign a Title to a post before publishing 
+Contributors: j_p_s
 Author: Jatinder Pal Singh
 Version: 1.1
 Author URI: http://www.jpsays.com/
